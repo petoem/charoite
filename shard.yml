@@ -1,0 +1,13 @@
+name: charoite
+version: 0.1.0
+
+authors:
+  - Michael Petö <michael@petoe.me>
+
+targets:
+  charoite:
+    main: src/charoite.cr
+
+crystal: 0.24.2
+
+license: MIT
